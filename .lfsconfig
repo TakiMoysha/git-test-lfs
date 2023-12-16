@@ -1,0 +1,3 @@
+[lfs]
+locksverify = false
+url = https://wonderland.taki/gitea/TakiMoysha/git-test-lfs.git

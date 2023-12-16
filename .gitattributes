@@ -1,0 +1,4 @@
+test-batch/dataset.csv filter=lfs diff=lfs merge=lfs -text
+test-batch/dataset_.csv filter=lfs diff=lfs merge=lfs -text
+dataset.csv filter=lfs diff=lfs merge=lfs -text
+dataset_.csv filter=lfs diff=lfs merge=lfs -text
